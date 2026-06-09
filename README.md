@@ -7,3 +7,16 @@ Using Python, Pandas, Matplotlib, and Seaborn, the project performs data cleanin
 
 ## Project Objective
 To analyze healthcare data and identify trends in patient demographics, disease prevalence, hospital admissions, insurance utilization, and billing patterns to support data-driven healthcare decision-making.
+
+## Key Performance Indicators (KPIs)
+Total Patients
+Average Patient Age
+Total Revenue Generated
+Average Billing Amount
+Average Length of Stay
+Most Common Medical Condition
+Most Common Admission Type
+Top Insurance Provider
+
+## Analysis Performed
+### Data Cleaning
