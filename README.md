@@ -20,3 +20,35 @@ Top Insurance Provider
 
 ## Analysis Performed
 ### Data Cleaning
+- Checked missing values
+- Converted date columns
+- Created Length of Stay metric
+
+### Exploratory Data Analysis (EDA)
+- Age Distribution
+- Gender Distribution
+- Medical Condition Analysis
+- Insurance Provider Analysis
+- Admission Type Analysis
+- Test Result Analysis
+- Medication Analysis
+- Billing Amount Analysis
+- Length of Stay Analysis
+
+### Trend Analysis
+- Monthly Admission Trends
+- Revenue by Medical Condition
+- Revenue by Insurance Provider
+
+### Statistical Analysis
+- Outlier Detection using Boxplots
+
+## Key Insights
+- Hypertension was the most common medical condition among patients.
+- Emergency admissions accounted for the highest number of hospital visits.
+- Medicare covered the largest share of patients.
+- Abnormal test results slightly exceeded normal and inconclusive outcomes.
+- Healthcare billing amounts showed significant variation across patients.
+
+## Conclusion
+The analysis revealed that hypertension was the most prevalent medical condition, emergency admissions were the most common, and Medicare covered the highest number of patients. Overall, the project provided valuable insights into patient demographics, healthcare costs, insurance utilization, and hospital admission trends, supporting data-driven healthcare decision-making.
