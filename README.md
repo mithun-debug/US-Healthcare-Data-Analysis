@@ -1,64 +1,10 @@
-# US-Healthcare-Data-Analysis
-
-## Project Overview
-This project analyzes a US Healthcare dataset containing 10,000 patient records to uncover trends in patient demographics, medical conditions, hospital admissions, insurance coverage, treatment outcomes, and healthcare costs.
-
-Using Python, Pandas, Matplotlib, and Seaborn, the project performs data cleaning, exploratory data analysis (EDA), KPI generation, and visualization to derive meaningful healthcare insights.
-
-## Project Objective
-To analyze healthcare data and identify trends in patient demographics, disease prevalence, hospital admissions, insurance utilization, and billing patterns to support data-driven healthcare decision-making.
-
-## Key Performance Indicators (KPIs)
-- Total Patients
-- Average Patient Age
-- Total Revenue Generated
-- Average Billing Amount
-- Average Length of Stay
-- Most Common Medical Condition
-- Most Common Admission Type
-- Top Insurance Provider
-
-## Analysis Performed
-### Data Cleaning
-- Checked missing values
-- Converted date columns
-- Created Length of Stay metric
-
-### Exploratory Data Analysis (EDA)
-- Age Distribution
-- Gender Distribution
-- Medical Condition Analysis
-- Insurance Provider Analysis
-- Admission Type Analysis
-- Test Result Analysis
-- Medication Analysis
-- Billing Amount Analysis
-- Length of Stay Analysis
-
-### Trend Analysis
-- Monthly Admission Trends
-- Revenue by Medical Condition
-- Revenue by Insurance Provider
-
-### Statistical Analysis
-- Outlier Detection using Boxplots
-
-## Key Insights
-- Hypertension was the most common medical condition among patients.
-- Emergency admissions accounted for the highest number of hospital visits.
-- Medicare covered the largest share of patients.
-- Abnormal test results slightly exceeded normal and inconclusive outcomes.
-- Healthcare billing amounts showed significant variation across patients.
-
-## Conclusion
-The analysis revealed that hypertension was the most prevalent medical condition, emergency admissions were the most common, and Medicare covered the highest number of patients. Overall, the project provided valuable insights into patient demographics, healthcare costs, insurance utilization, and hospital admission trends, supporting data-driven healthcare decision-making.
-# 🏥 US Healthcare Statistical Analysis using Python
+#  US Healthcare Statistical Analysis using Python
 
 A comprehensive **Exploratory Data Analysis (EDA)** and **Statistical Analysis** project performed on a US Healthcare dataset containing **10,000 patient records**. This project demonstrates how Python and statistical techniques can be used to extract meaningful business insights, validate hypotheses, and support data-driven healthcare decision-making.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Healthcare organizations generate large volumes of patient and billing data every day. This project analyzes healthcare records to identify trends in patient demographics, disease prevalence, insurance utilization, hospital admissions, and billing patterns.
 
@@ -66,7 +12,7 @@ Beyond traditional EDA, this project applies **inferential statistical methods**
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 The primary objectives of this analysis are to:
 
@@ -80,7 +26,7 @@ The primary objectives of this analysis are to:
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 | Attribute | Details |
 |-----------|----------|
@@ -106,7 +52,7 @@ The primary objectives of this analysis are to:
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ```text
 Healthcare Dataset
@@ -134,7 +80,7 @@ Recommendations
 ```
 
 
-# 📈 Exploratory Data Analysis
+#  Exploratory Data Analysis
 
 The project includes multiple visualizations to understand patient demographics, hospital operations, and financial patterns.
 
@@ -173,7 +119,7 @@ The project includes multiple visualizations to understand patient demographics,
 
 ---
 
-# 📊 Statistical Analysis
+# Statistical Analysis
 
 The following statistical methods were applied to validate business insights.
 
@@ -187,7 +133,7 @@ The following statistical methods were applied to validate business insights.
 
 ---
 
-# 📌 Hypothesis Testing Results
+# Hypothesis Testing Results
 
 | Test | Result | Conclusion |
 |------|---------|------------|
@@ -197,7 +143,7 @@ The following statistical methods were applied to validate business insights.
 
 ---
 
-# 💡 Key Business Findings
+#  Key Business Findings
 
 - Hypertension was the most frequently diagnosed medical condition.
 - Emergency admissions represented the highest proportion of hospital visits.
@@ -210,7 +156,7 @@ The following statistical methods were applied to validate business insights.
 
 ---
 
-# 📋 Business Recommendations
+# Business Recommendations
 
 - Strengthen preventive healthcare initiatives for hypertension.
 - Improve staffing and resource allocation in emergency departments.
@@ -220,7 +166,7 @@ The following statistical methods were applied to validate business insights.
 
 ---
 
-# 📄 Project Report
+# Project Report
 
 A detailed business report containing:
 
@@ -234,7 +180,7 @@ A detailed business report containing:
 
 is available in:
 
-**📄 Healthcare_Statistical_Analysis_Report.pdf**
+**[Healthcare Statistical Analysis Report](Statistical%20Analysis%20and%20Exploratory%20Data%20Analysis%20of%20US%20Healthcare%20Data.pdf)**
 
 ---
 
