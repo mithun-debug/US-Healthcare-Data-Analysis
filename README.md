@@ -203,5 +203,3 @@ is available in:
 **Mithun M**
 
 ---
-
-## ⭐ If you found this project interesting, consider giving the repository a star!
