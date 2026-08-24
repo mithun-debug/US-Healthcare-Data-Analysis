@@ -1,4 +1,4 @@
-#  US Healthcare Statistical Analysis using Python
+#  Healthcare Statistical Analysis using Python
 
 A comprehensive **Exploratory Data Analysis (EDA)** and **Statistical Analysis** project performed on a US Healthcare dataset containing **10,000 patient records**. This project demonstrates how Python and statistical techniques can be used to extract meaningful business insights, validate hypotheses, and support data-driven healthcare decision-making.
 
